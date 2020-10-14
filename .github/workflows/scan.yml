@@ -52,7 +52,7 @@ jobs:
 #         env:
 #           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}           
            
-
+# --detect.detector.search.depth=3 \
 # --detect.notices.report=true \
 # --detect.detector.search.depth=3 \
 # --detect.npm.include.dev.dependencies=false \
